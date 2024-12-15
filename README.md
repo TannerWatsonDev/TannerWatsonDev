@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TannerWatsonDev
   
-- 👀 I’m interested in .Net development and expanding my understanding and skills on its vast capabilities.
+- 👀 I’m interested in .Net development and JavaScript and improving my coding skills with both technologies.
   
-- 🌱 I’m currently pursuing my Associates in Computer Science. At the moment Im taking C# II .Net Development, Web Dev II,  and Database and Query. I should be graduating by Dec 2025.
+- 🌱 I’m currently pursuing my Associates in Computer Science. Just finished another semester, having earned a few certiport certificates in Software Development, Databases, and JavaScript.
   
 - 📫 You can reach me by email at tanner.watsondec@gmail.com.
   
